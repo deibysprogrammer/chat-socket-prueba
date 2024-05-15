@@ -1,0 +1,12 @@
+.fullScream{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.chat{
+    width: 100%;
+    height: 600px;
+}
